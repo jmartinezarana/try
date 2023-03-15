@@ -1,0 +1,25 @@
+.card {
+	background-color: white;
+	text-align: center;
+	padding: 16x;
+	border-radius: 6px;
+	margin: 8px 0;
+	box-shadow: 1px 2px 6px 4px black;
+
+}
+
+.card img { 
+	width: 200px;
+	height: 200px ;
+	object-fit: cover;
+
+ }
+
+.cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 16px;
+	padding: 16px;
+
+}
+

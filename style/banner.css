@@ -1,0 +1,23 @@
+.banner{
+	background-image: url('../images/banner.jpg');
+	height: 75vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.banner h1{
+	color: white;
+	text-shadow: 4px 2px 3pc #000000ed;
+}
+
+.banner h2{
+	color: white;
+	text-shadow: 4px 2px 3pc #000000ed;
+}
+
+
